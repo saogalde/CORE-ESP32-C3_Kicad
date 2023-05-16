@@ -1,0 +1,1 @@
+# CORE-ESP32-C3_Kicad
